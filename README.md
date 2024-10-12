@@ -9,7 +9,7 @@ aula rápida de github
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  
+  <img align="center" height="30" width="40" src= https://icongr.am/simple/microsoftteams.svg?size=128&color=6227b9&colored=false
   
 
 
