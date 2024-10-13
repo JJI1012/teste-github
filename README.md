@@ -10,9 +10,9 @@
   </a>
 </p>
 
-![Equipe](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Equipe.jpeg)
+![Equipe](https://github.com/JJI1012/teste-github/blob/main/Equipe%20rota.jpg)
 
- 
+
    <div style= display:"inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
