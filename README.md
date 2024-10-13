@@ -11,8 +11,6 @@
 </p>
 
 ![Equipe](https://github.com/Rota-Flex/Rota-/blob/main/Arquivos/Equipe.jpeg)
-git clone https://github.com/seu_usuario/Rotaflex-interativo.git
-aula rápida de github
 
  
    <div style= display:"inline_block"><br>
