@@ -50,6 +50,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
+# Vídeos e apresentações das sprints
+
+- [Software Jira](https://youtu.be/DQp1-7dgCGg)
+- [Power BI](https://youtu.be/PfS4NQn3Ycs)
+- [MySQL](https://youtu.be/ik3yccyIszI)
+  
 # Missão, visão e valores          
       
 # Cronograma das sprints
