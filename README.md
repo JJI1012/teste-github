@@ -68,3 +68,12 @@ Sprint | Previsão | Status| Histórico|
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+  ## Sprint 3
+- [ ] Documentação da sprint 3.
+- [ ] Ajustes Finais - Apresentação (CANVA);
+- [ ] Ajustes Finais - Método de Transporte (Python);
+- [ ] Ajustes Finais - Power Bi;
+- [ ] Atualizar e Finalizar - GitHub; 
+- [ ] Atualizar e Finalizar - Jira Software;
+- [ ] Feira de Soluções.
+
