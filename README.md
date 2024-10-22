@@ -39,5 +39,16 @@ Repositório para armazenagem de dados, para visualização do cliente Marcus no
 de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga.
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados da equipe envolvida.  
-          
+# Índice
+* [Nossa empresa](#missão-visão-e-valores)
+* [Cronograma](#cronograma-das-sprints)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Vídeos e apresentações das sprints](#vídeos-e-apresentações-das-sprints)
+* [Backlog do produto](#backlog-do-produto-e-sprints)
+* [Burndown](#burndown)
+* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Autores](#autores)
+
+# Missão, visão e valores          
       
