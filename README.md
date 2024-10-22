@@ -26,6 +26,18 @@
   <img align="center" height="30" width="40" src= https://icongr.am/simple/powerbi.svg?size=128&color=f9f34e&colored >
   <img align="center" height="30" width="40" src= https://icongr.am/simple/whatsapp.svg?size=128&color=43d06e&colored
   
-  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Somos+O+Grupo+Rotaflex!+%F0%9F%97%93%EF%B8%8F" alt="Typing SVG">
+  </a>
+</p>
+
+# LOGÍSTICA - TERCEIRO SEMESTRE
+# Aprendizado por Projeto Integrado (API) 
+
+Repositório para armazenagem de dados, para visualização do cliente Marcus no qual o produto é uma análise de produtividade de veículos, 
+de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga.
+
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados da equipe envolvida.  
           
       
