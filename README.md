@@ -8,6 +8,7 @@
 
 ![Equipe](https://github.com/JJI1012/teste-github/blob/main/Equipe%20rota.jpg)
 
+| Scrum Master  | Jocemar   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jocemar-santos-9912bb264)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JJI1012)   ||
 
    <div style= display:"inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-plain.svg">
